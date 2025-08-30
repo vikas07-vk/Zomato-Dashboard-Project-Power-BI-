@@ -43,11 +43,6 @@ Here’s a quick snapshot of the dashboard:
 <img width="864" height="484" alt="Screenshot 2025-08-30 143656" src="https://github.com/user-attachments/assets/3c2e59fc-ca6a-4f3f-b428-6730fdb570c0" />
 
 
-
-
-
-*(Add your exported dashboard image here for better presentation)*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -57,7 +52,3 @@ Here’s a quick snapshot of the dashboard:
 
 ---
 
-## 📥 Download & Usage
-- Clone the repository:
-  ```bash
-  git clone https://github.com/yourusername/zomato-dashboard.git
