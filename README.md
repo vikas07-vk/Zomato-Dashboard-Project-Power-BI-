@@ -4,7 +4,15 @@ This repository contains an **interactive Power BI dashboard** built to analyze 
 It provides business insights into orders, revenue trends, customer behavior, and top-performing locations.
 
 ---
+## 🎯 Project Objective
+The goal of this project is to:
+- Track **Zomato’s order growth** across years.
+- Identify **top-performing cities** based on orders and revenue.
+- Analyze **customer demographics** (age, gender, active users).
+- Study **ratings and customer feedback** trends.
+- Understand **user acquisition and retention patterns**.
 
+---
 ## 📊 Dashboard Overview
 - **Total Orders:** 150K+
 - **Total Ratings:** 148K+
@@ -25,11 +33,8 @@ It provides business insights into orders, revenue trends, customer behavior, an
 
 ## 📷 Dashboard Preview
 Here’s a quick snapshot of the dashboard:
-
-![Dashboard Preview] 
 <h3>INDEX</h3>
 <img width="936" height="500" alt="Screenshot 2025-08-30 143533" src="https://github.com/user-attachments/assets/a7cc580a-c1c1-4dbd-be34-6f8b947ea0c2" />
-
 <H3>OVERVIEW</H3>
 <img width="866" height="487" alt="Screenshot 2025-08-30 143624" src="https://github.com/user-attachments/assets/d22561f2-ad9d-45a3-b336-ec1590054e87" />
 <H3>USER</H3>
